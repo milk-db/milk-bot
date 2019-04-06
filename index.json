@@ -10,6 +10,17 @@
         "output": "도훈스님 기독교입니다."
       },
       {
+        "keyword": "/취업정보",
+        "output": [
+          "잡코리아: https://www.jobkorea.co.kr",
+          "원티드: https://www.wanted.co.kr",
+          "링크드인: https://kr.linkedin.com",
+          "잡플래닛: https://www.jobplanet.co.kr",
+          "워크넷: https://www.work.go.kr",
+          "사람인: https://www.saramin.co.kr"
+        ]
+      },
+      {
         "keyword": "/양식",
         "output": [
           "아래 양식으로 소개 부탁드립니다 :)",
