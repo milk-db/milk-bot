@@ -10,6 +10,13 @@
         "output": "도훈스님 기독교입니다."
       },
       {
+        "keyword": "제로초님",
+        "output": [
+          "좋아요&구독!",
+          "https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw"
+        ]
+      },
+      {
         "keyword": "/취업정보",
         "output": [
           "잡코리아: https://www.jobkorea.co.kr",
