@@ -12,19 +12,19 @@
       {
         "keyword": "제로초님",
         "output": [
-          "좋아요&구독!",
-          "https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw"
+          "좋아요&구독",
+          "https://www.youtube.com/c/zerochotv"
         ]
       },
       {
         "keyword": "/취업정보",
         "output": [
+          "사람인: https://www.saramin.co.kr",
           "잡코리아: https://www.jobkorea.co.kr",
           "원티드: https://www.wanted.co.kr",
           "링크드인: https://kr.linkedin.com",
           "잡플래닛: https://www.jobplanet.co.kr",
-          "워크넷: https://www.work.go.kr",
-          "사람인: https://www.saramin.co.kr"
+          "워크넷: https://www.work.go.kr"
         ]
       },
       {
