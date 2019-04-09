@@ -2,14 +2,14 @@
   "웹 퍼블리셔 공유 feat.친목도모[매너]": {
     "datas": [
       {
-        "keyword": "제로초님",
+        "keyword": "제로초님!",
         "output": [
           "좋아요&구독",
           "https://www.youtube.com/c/zerochotv"
         ]
       },
       {
-        "keyword": "/취업정보",
+        "keyword": "/취업정보!",
         "output": [
           "사람인: https://www.saramin.co.kr",
           "잡코리아: https://www.jobkorea.co.kr",
@@ -55,7 +55,7 @@
   "common": {
     "datas": [
       {
-        "keyword": "밀크봇",
+        "keyword": "밀크봇!",
         "output": "저를 부르셨나요~?"
       }
     ]
