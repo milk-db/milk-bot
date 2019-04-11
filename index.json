@@ -63,6 +63,7 @@
         "keyword": "테스트!",
         "output": "test"
       }
-    ]
+    ],
+    "blacklist": ["구민_adam"]
   }
 }
