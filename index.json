@@ -62,7 +62,7 @@
       {
         "keyword": "밀크봇",
         "output": "저를 부르셨나요~?",
-        "available": ["이링"]
+        "available": ["이링", "joo"]
       }
     ]
   }
