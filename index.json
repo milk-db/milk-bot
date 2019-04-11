@@ -61,8 +61,7 @@
       },
       {
         "keyword": "테스트!",
-        "output": "adam만 가능",
-        "available": ["구민_adam"]
+        "output": "test"
       }
     ]
   }
