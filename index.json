@@ -56,7 +56,13 @@
     "datas": [
       {
         "keyword": "밀크봇!",
-        "output": "저를 부르셨나요~?"
+        "output": "저를 부르셨나요~?",
+        "available": ["이링"]
+      },
+      {
+        "keyword": "테스트!",
+        "output": "adam만 가능",
+        "available": ["구민_adam"]
       }
     ]
   }
