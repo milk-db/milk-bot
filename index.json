@@ -3,7 +3,7 @@
     "datas": [
       {
         "keyword": "주님",
-        "output": "joo : 네|하루에 한번만 불러요!|그만!|joo : 안돼요",
+        "output": "joo : 네|하루에 한번만 불러요!|그만!|joo : 안돼요|joo : 돼요|고기님 감사합니다",
         "available": ["🍖고기🍖"]
       },
       {
