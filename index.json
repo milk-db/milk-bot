@@ -3,16 +3,16 @@
     "datas": [
       {
         "keyword": "주님",
-        "output": "joo : 곧 다시 들어올께요.",
+        "output": "joo : 조금만 기다려주세요.|joo : 네네!",
         "available": ["🍖고기🍖"]
       },
       {
         "keyword": "제로초님",
         "output": [
-          "좋아요&구독",
+          "구독과 좋아요 부탁드립니다^^",
           "https://www.youtube.com/c/zerochotv"
         ],
-        "available": ["joo"]
+        "available": ["joo", "9ooooooooomin"]
       },
       {
         "keyword": "/취업정보",
@@ -24,7 +24,7 @@
           "잡플래닛: https://www.jobplanet.co.kr",
           "워크넷: https://www.work.go.kr"
         ],
-        "available": ["joo"]
+        "available": ["joo", "9ooooooooomin"]
       },
       {
         "keyword": "/양식",
@@ -32,16 +32,16 @@
           "아래 양식으로 소개 부탁드립니다 :)",
           "",
           "<!————— 양식 —————>",
-          "# 구직중?재직중?",
+          "# 학생/구직중/재직중",
           "# 관심사(관심언어나 분야 등등)",
-          "# 연령대(10대/20대/30대/40대 등)",
-          "# 발사이즈",
-          "# 이 방에 들어온 이유?",
-          "# 앞으로의 각오",
+          "# 연령대(10대/20대/30대/40대 등등)",
+          "# 발사이즈(필수!)",
+          "# 이 방에 들어 온 이유?",
+          "# 앞으로의 각오!",
           "",
           "상기 ㅇㅇㅇ은 많은 분들이 함께하는 톡방이므로",
           "비매너적인 언행은 삼가하고 사이좋게 잘 지내겠습니다 :)",
-          "ㅡ 2019. xx. xx ㅡ",
+          "ㅡ 2019. 04. xx ㅡ",
           "<!————— 양식 —————>"
         ],
         "available": ["html5", "농구왕호날두", "림림", "세디", "9ooooooooomin"]
@@ -67,7 +67,12 @@
       {
         "keyword": "밀크봇",
         "output": "저를 부르셨나요~?",
-        "available": ["이링", "joo"]
+        "available": ["joohee"]
+      },
+      {
+        "keyword": "주희",
+        "output": "네네",
+        "available": ["구민_adam"]
       }
     ]
   }
