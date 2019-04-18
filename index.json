@@ -2,6 +2,11 @@
   "웹 퍼블리셔 공유 feat.친목도모[매너]": {
     "datas": [
       {
+        "keyword": "내일 뵙겠습니다",
+        "output": "방장님 가지마세요ㅠㅠ",
+        "available": ["html5"]
+      },
+      {
         "keyword": "안녕하세요",
         "output": "방장님 어서오십쇼!",
         "available": ["html5"]
