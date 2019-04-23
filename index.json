@@ -59,7 +59,7 @@
           "ㅡ 2019. 04. xx ㅡ",
           "<!————— 양식 —————>"
         ],
-        "available": ["html5", "농구왕호날두", "림림", "세디", "9ooooooooomin"]
+        "available": ["html5", "농구왕호날두", "림림", "세디", "9ooooooooomin", "joo"]
       },
       {
         "keyword": "/공부인증",
@@ -163,7 +163,7 @@
       {
         "keyword": "밀크봇",
         "output": "저를 부르셨나요~?",
-        "available": ["joohee"]
+        "available": ["joo", "joohee"]
       },
       {
         "keyword": "주희",
