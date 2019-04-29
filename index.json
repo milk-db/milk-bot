@@ -2,7 +2,7 @@
   "웹 퍼블리셔 공유 feat.친목도모": {
     "datas": [
       {
-        "keyword": "밀크봇",
+        "keyword": "밀크봇!",
         "output": "저를 부르셨나요?",
         "available": ["joo"]
       },
