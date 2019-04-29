@@ -2,7 +2,7 @@
   "웹 퍼블리셔 공유 feat.친목도모": {
     "datas": [
       {
-        "keyword": "밀크봇!",
+        "keyword": "milk_bot",
         "output": "저를 부르셨나요?",
         "available": ["joo"]
       },
@@ -166,9 +166,14 @@
   "common": {
     "datas": [
       {
-        "keyword": "Milk_bot",
+        "keyword": "밀크봇!",
         "output": "저를 부르셨나요~?",
-        "available": ["joo", "joohee"]
+        "available": ["joo"]
+      },
+      {
+        "keyword": "삐돌이!",
+        "output": "구민_adam : 네네",
+        "available": ["joo"]
       },
       {
         "keyword": "주희",
