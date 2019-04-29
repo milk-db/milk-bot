@@ -166,7 +166,7 @@
   "common": {
     "datas": [
       {
-        "keyword": "밀크봇",
+        "keyword": "Milk_bot",
         "output": "저를 부르셨나요~?",
         "available": ["joo", "joohee"]
       },
