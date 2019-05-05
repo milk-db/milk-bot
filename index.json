@@ -168,12 +168,7 @@
       {
         "keyword": "밀크봇!",
         "output": "저를 부르셨나요~?",
-        "available": ["joo", "joohee"]
-      },
-      {
-        "keyword": "삐돌이!",
-        "output": "구민_adam : 네네",
-        "available": ["joo", "joohee"]
+        "available": ["joo", "이링"]
       },
       {
         "keyword": "주희",
