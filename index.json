@@ -2,11 +2,6 @@
   "웹 퍼블리셔 공유 feat.친목도모": {
     "datas": [
       {
-        "keyword": "milk_bot",
-        "output": "저를 부르셨나요?",
-        "available": ["joo"]
-      },
-      {
         "keyword": "내일 뵙겠습니다",
         "output": "방장님 가지마세요ㅠㅠ",
         "available": ["html5"]
@@ -166,14 +161,9 @@
   "common": {
     "datas": [
       {
-        "keyword": "밀크봇!",
+        "keyword": "밀크봇",
         "output": "저를 부르셨나요~?",
-        "available": ["joo", "이링"]
-      },
-      {
-        "keyword": "주희",
-        "output": "네네",
-        "available": ["구민_adam"]
+        "available": ["joo", "이링", "9ooooooooomin"]
       }
     ]
   }
