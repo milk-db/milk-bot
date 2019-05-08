@@ -17,17 +17,12 @@
         "available": ["html5"]
       },
       {
-        "keyword": "주님",
-        "output": "joo : 네네!|joo : 저 여기있어요!|감사합니다^^*",
-        "available": ["🍖고기🍖"]
-      },
-      {
         "keyword": "제로초님",
         "output": [
           "구독과 좋아요 부탁드립니다^^",
           "https://www.youtube.com/c/zerochotv"
         ],
-        "available": ["joo", "9ooooooooomin"]
+        "available": ["9ooooooooomin"]
       },
       {
         "keyword": "/취업정보",
@@ -39,7 +34,7 @@
           "잡플래닛: https://www.jobplanet.co.kr",
           "워크넷: https://www.work.go.kr"
         ],
-        "available": ["joo", "9ooooooooomin"]
+        "available": ["9ooooooooomin"]
       },
       {
         "keyword": "/양식",
@@ -59,7 +54,7 @@
           "ㅡ 2019. 05. xx ㅡ",
           "<!————— 양식 —————>"
         ],
-        "available": ["html5", "농구왕호날두", "림림", "세디", "9ooooooooomin", "joo"]
+        "available": ["html5", "농구왕호날두", "림림", "세디", "9ooooooooomin"]
       },
       {
         "keyword": "/공부인증",
@@ -163,7 +158,7 @@
       {
         "keyword": "밀크봇",
         "output": "저를 부르셨나요~?",
-        "available": ["joo", "이링", "9ooooooooomin"]
+        "available": ["9ooooooooomin"]
       }
     ]
   }
