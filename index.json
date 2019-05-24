@@ -123,21 +123,17 @@
         ]
       },
       {
-        "keyword": "/test",
-        "output": "네!?|쿨쿨..zzZ|저랑 놀래요?|저 여기있어요!|ㅇㅅㅇ|AI가 세상을 지배한다.|모두 행복하세요!|메롱~!"
-      },
-      {
         "keyword": "/help",
-        "output": "이 방은 \"/점심\" 키워드만 사용 가능합니다."
+        "output": "이 방은 \"/점심\", \"/미세먼지\" 키워드만 사용 가능합니다."
       }
     ]
   },
   "common": {
     "datas": [
       {
-        "keyword": "밀크봇",
-        "output": "저를 부르셨나요~?",
-        "available": ["9ooooooooomin"]
+        "keyword": "아담봇",
+        "output": "저를 부르셨나요~?|네 주인님!|무엇을 도와드릴까요?",
+        "available": ["9ooooooooomin", "구민_adam"]
       }
     ]
   }
