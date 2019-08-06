@@ -1,7 +1,12 @@
 {
   "웹 퍼블리셔 공유 feat.친목도모": {
     "datas": [
-       {
+      {
+        "keyword": "주님!",
+        "output": "생일축하합니다! *^^*",
+        "available": ["쭈구링"]
+      }, 
+      {
         "keyword": "주님!",
         "output": "딴길로 새지 맙시다.",
         "available": ["누수"]
