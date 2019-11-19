@@ -97,7 +97,7 @@
     "globalKeywords": [
       {
         "keyword": "/날씨",
-        "blackList": ["joo"]
+        "blacklist": ["joo"]
       }
     ]
   },
