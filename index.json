@@ -90,15 +90,13 @@
         "available": ["html5", "IU날강두", "림림", "세디", "9ooooooooomin", "joo"]
       }
     ],
-    "blacklist": ["당근", "Ju-rie"],
+    "blacklist": ["당근", "Ju-rie"]
+  },
+  "joo,구민_adam": {
     "globalKeywords": [
       {
         "keyword": "/날씨",
-        "available": ["html5", "IU날강두", "림림", "세디", "9ooooooooomin", "joo"]
-      },
-      {
-        "keyword": "/미세먼지",
-        "available": ["html5", "IU날강두", "림림", "세디", "9ooooooooomin", "joo"]
+        "blackList": ["joo"]
       }
     ]
   },
