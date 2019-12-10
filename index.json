@@ -117,7 +117,7 @@
           "",
           "공지봇은 스텝들만 사용 가능합니다. 장난치면 강퇴!"
         ],
-        "available": ["Ivan", "Ivan(알바주세요)", "물약", "바보K양", "서브웨이", "Lutece", "♥꿈이양♥", "9ooooooooomin", "jrjung"]
+        "available": ["Ivan", "Ivan(알바주세요)", "물약", "바보K양", "서브웨이", "Lutece", "♥꿈이양♥", "9ooooooooomin", "jrjung", "어리양"]
       },
       {
         "keyword": "/test",
