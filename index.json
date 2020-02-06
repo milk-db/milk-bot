@@ -85,6 +85,44 @@
           "💟 10분을 하더라도 매일 꾸준하게! 화이팅!"
         ],
         "available": ["Html5", "IU날강두", "림림", "세디", "9ooooooooomin", "joo"]
+      },
+      {
+        "keyword": "/무료링크",
+        "output": [
+          "[이미지]",
+          "www.flickr.com",
+          "www.freepik.com",
+          "www.foodiesfeed.com",
+          "www.freeqration.com",
+          "www.morguefile.com",
+          "www.pexels.com",
+          "pixabay.com",
+          "unsplash.com",
+          "stocksnap.io",
+          "finda.photo",
+          "freerangestock.com",
+          "picjumbo.com",
+          "kor.pngtree.com",
+          "www.sitebuilderreport.com/stock-up",
+          "",
+          "[아이콘]",
+          "www.flaticon.com",
+          "fontawesome.com",
+          "boxicons.com",
+          "sourcetree.kr",
+          "blog.naver.com/codbs7/221443619606",
+          "",
+          "[폰트]",
+          "www.dafont.com",
+          "noonnu.cc",
+          "",
+          "[명함]",
+          "businesscardjournal.com",
+          "",
+          "[웹소스]",
+          "www.webjangi.com"
+        ],
+        "available": ["Html5", "IU날강두", "림림", "세디", "9ooooooooomin", "joo"]
       }
     ],
     "blacklist": ["당근", "Ju-rie"]
