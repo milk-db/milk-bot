@@ -237,6 +237,18 @@
       }
     ]
   },
+  "봇테스트오픈방": {
+    "link": "https://open.kakao.com/o/g0PKrRXb",
+    "inputMessage": "inputMessage",
+    "outputMessage": "outputMessage",
+    "datas": [
+      {
+        "keyword": "테스트!",
+        "output": "작동합니다!",
+        "available": ["joo"]
+      }
+    ]
+  },
   "common": {
     "datas": [
       {
