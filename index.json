@@ -283,7 +283,7 @@
       },
       {
         "keyword": "/네이버부동산",
-        "output": "https://new.land.naver.com/complexes/3864?ms=37.3577229,126.9279496,17&a=APT:ABYG:JGC&e=RETAIL&ad=true"
+        "output": "https://m.land.naver.com/complex/info/3864?tradTpCd=A1&ptpNo=&bildNo=&articleListYN=Y"
       },
       {
         "keyword": "/평면도",
@@ -395,7 +395,7 @@
       },
       {
         "keyword": "/네이버부동산",
-        "output": "https://new.land.naver.com/complexes/3864?ms=37.3577229,126.9279496,17&a=APT:ABYG:JGC&e=RETAIL&ad=true",
+        "output": "https://m.land.naver.com/complex/info/3864?tradTpCd=A1&ptpNo=&bildNo=&articleListYN=Y",
         "available": ["🌈635❤️", "sj11004", "644", "산본 1기신도시 세종6", "웨이브릿지", "흥", "모란지", "소피아", "천사의꿈"]
       },
       {
