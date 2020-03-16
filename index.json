@@ -22,7 +22,7 @@
         "available": ["Html5", "html5"]
       },
       {
-        "keyword": "안녕하세요",
+        "keyword": "안녕하세요!",
         "output": "방장님 어서오십쇼!",
         "available": ["Html5", "html5"]
       },
