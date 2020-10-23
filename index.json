@@ -6,6 +6,10 @@
         "output": "👻|🎃|😈|Happy Halloween!"
       },
       {
+        "keyword": "ㅎㄹㅇ",
+        "output": "👻|🎃|😈|Happy Halloween!"
+      },
+      {
         "keyword": "주님!",
         "output": "안녕하세요!|저를 부르셨나요~?|감사합니다^^",
         "available": ["🍖고기🍖"]
@@ -139,6 +143,10 @@
         "output": "👻|🎃|😈|Happy Halloween!"
       },
       {
+        "keyword": "ㅎㄹㅇ",
+        "output": "👻|🎃|😈|Happy Halloween!"
+      },
+      {
         "keyword": ".공지",
         "output": [
           "*** 공 지 사 항 ***",
@@ -190,6 +198,10 @@
     "datas": [
       {
         "keyword": "할로윈",
+        "output": "👻|🎃|😈|Happy Halloween!"
+      },
+      {
+        "keyword": "ㅎㄹㅇ",
         "output": "👻|🎃|😈|Happy Halloween!"
       },
       {
