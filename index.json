@@ -67,7 +67,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "동물의숲"]
+    "globalLockKeywords": ["업데이트", "동물의숲"],
     "blacklist": ["당근"]
   },
   "프론트개발자(Front-developer)": {
@@ -97,7 +97,7 @@
         "available": ["Ivan", "Ivan(알바주세요)", "물약", "바보K양", "서브웨이", "Lutece", "♥꿈이양♥", "9ooooooooomin", "jrjung", "어리양"]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물"]
+    "globalLockKeywords": ["업데이트", "매물"],
     "blacklist": ["당근"]
   },
   "웹퍼블리셔 이야기": {
@@ -165,7 +165,7 @@
         "output": "https://open.kakao.com/o/gJQpnJeb?t=2299513789412835328"
       }
     ],
-    "globalLockKeywords": ["업데이트"]
+    "globalLockKeywords": ["업데이트"],
   },
   "세종대왕 보우하사^^|봇테스트오픈방": {
     "datas": [
