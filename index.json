@@ -475,6 +475,13 @@
     ],
     "globalLockKeywords": ["미세먼지", "동물의숲"]
   },
+  "system": {
+    "운세": {
+      "startHour": 7,
+      "endHour": 10
+    },
+    "js": ["9ooooooooomin", "구민_adam", "joo", "dohoons"]
+  },
   "common": {
     "datas": [
       {
