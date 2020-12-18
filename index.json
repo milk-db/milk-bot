@@ -456,7 +456,7 @@
       {
         "keyword": ".크리스마스|/크리스마스|.메리크리스마스|/메리크리스마스|.christmas|/christmas",
         "output": [
-          "Merry Christmas!", 
+          "Merry Christmas!",
           "              +",
           "             .#.",
           "           .###.",
