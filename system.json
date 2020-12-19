@@ -1,7 +1,33 @@
 {
   "운세": {
-    "startHour": 7,
-    "endHour": 14
+    "월": {
+      "startHour": 7,
+      "endHour": 12
+    },
+    "화": {
+      "startHour": 7,
+      "endHour": 12
+    },
+    "수": {
+      "startHour": 7,
+      "endHour": 12
+    },
+    "목": {
+      "startHour": 7,
+      "endHour": 12
+    },
+    "금": {
+      "startHour": 7,
+      "endHour": 12
+    },
+    "토": {
+      "startHour": 7,
+      "endHour": 17
+    },
+    "일": {
+      "startHour": 7,
+      "endHour": 14
+    }
   },
   "js": ["9ooooooooomin", "구민_adam", "joo", "dohoons", "po.to"]
 }
