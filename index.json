@@ -67,7 +67,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "동물의숲"],
+    "globalLockKeywords": ["업데이트", "동물의숲", "발생동향"],
     "blacklist": ["당근"]
   },
   "프론트개발자(Front-developer)": {
@@ -97,7 +97,7 @@
         "available": ["Ivan", "Ivan(알바주세요)", "물약", "바보K양", "서브웨이", "Lutece", "♥꿈이양♥", "9ooooooooomin", "jrjung", "어리양"]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "미세먼지", "크리스마스", "메리크리스마스"],
+    "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "미세먼지", "코로나", "발생동향", "크리스마스", "메리크리스마스"],
     "blacklist": ["당근"]
   },
   "웹퍼블리셔 이야기": {
@@ -441,7 +441,7 @@
         "available": ["🌈꿈은이루어진다❤️", "산본금정", "644", "산본 1기신도시 세종6", "웨이브릿지", "흥", "모란지", "소피아", "천사의꿈", "미나리", "세종631"]
       }
     ],
-    "globalLockKeywords": ["업데이트"]
+    "globalLockKeywords": ["업데이트", "발생동향"]
   },
   "구민_adam": {
     "datas": [
