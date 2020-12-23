@@ -461,6 +461,16 @@
     ],
     "globalLockKeywords": ["미세먼지", "동물의숲"]
   },
+  "joo,구민_adam": {
+    "datas": [
+      {
+        "keyword": "가가|나나|다다",
+        "output": "가나다!"
+      }
+    ],
+    "globalLockKeywords": ["동물의숲"],
+    "blacklist": ["구민_adam"]
+  },
   "common": {
     "datas": [
       {
