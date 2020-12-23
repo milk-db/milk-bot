@@ -67,7 +67,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "동물의숲", "발생동향"],
+    "globalLockKeywords": ["업데이트", "동물의숲", "발생동향", "날씨", "미세먼지"],
     "blacklist": ["당근"]
   },
   "프론트개발자(Front-developer)": {
