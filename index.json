@@ -132,7 +132,8 @@
         "available": ["사장님", "주리", "푸밤남편👍", "Zosam", "dohoons", "뉴비늅늅", "자스뭔", "코딩뽀시레기", "9ooooooooomin"]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물"]
+    "globalLockKeywords": ["업데이트", "매물"],
+    "blacklist": ["코딩뽀시레기"]
   },
   "₩세종소유주인증 현관문": {
     "datas": [
