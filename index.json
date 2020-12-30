@@ -67,7 +67,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지"],
+    "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지", "주가"],
     "blacklist": ["당근"]
   },
   "웹 프론트엔드 정보공유|봇테스트오픈방": {
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "globalLockKeywords": ["업데이트"],
+    "globalLockKeywords": ["업데이트", "주가"],
     "blacklist": ["블랙리스트"]
   },
   "프론트개발자(Front-developer)": {
@@ -113,7 +113,7 @@
         "available": ["Ivan", "Ivan(알바주세요)", "물약", "바보K양", "서브웨이", "Lutece", "♥꿈이양♥", "9ooooooooomin", "jrjung", "어리양"]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "미세먼지", "코로나", "발생동향", "보도자료", "뭐먹지"],
+    "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "미세먼지", "코로나", "발생동향", "보도자료", "뭐먹지", "주가"],
     "blacklist": ["당근"]
   },
   "웹퍼블리셔 이야기": {
@@ -148,7 +148,7 @@
         "available": ["사장님", "주리", "푸밤남편👍", "Zosam", "dohoons", "뉴비늅늅", "자스뭔", "코딩뽀시레기", "9ooooooooomin"]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물"],
+    "globalLockKeywords": ["업데이트", "매물", "주가"],
     "blacklist": ["당근"]
   },
   "₩세종소유주인증 현관문": {
