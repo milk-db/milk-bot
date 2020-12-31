@@ -466,7 +466,7 @@
         }
       },
       {
-        "keyword": "좋아요",
+        "keyword": "/좋아요|.좋아요|?좋아요",
         "output": "",
         "available": ["9ooooooooomin"],
         "kakaoLink": {
