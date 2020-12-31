@@ -464,6 +464,14 @@
         "kakaoLink": {
           "type": "join" 
         }
+      },
+      {
+        "keyword": "좋아요",
+        "output": "",
+        "available": ["9ooooooooomin"],
+        "kakaoLink": {
+          "type": "like" 
+        }
       }
     ],
     "globalLockKeywords": ["업데이트", "주가"],
