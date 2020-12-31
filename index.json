@@ -70,7 +70,7 @@
     "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지", "주가"],
     "blacklist": ["당근"]
   },
-  "웹 프론트엔드 정보공유|주꾸미방": {
+  "웹 프론트엔드 정보공유": {
     "datas": [
       {
         "keyword": "/좋아요|.좋아요|?좋아요",
@@ -458,6 +458,20 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "발생동향"]
+  },
+  "봇테스트오픈방2": {
+    "datas": [
+      {
+        "keyword": "양식",
+        "output": "",
+        "available": ["팬다 Jr.", "방장봇"],
+        "kakaoLink": {
+          "type": "join" 
+        }
+      }
+    ],
+    "globalLockKeywords": ["업데이트", "주가"],
+    "blacklist": ["블랙리스트"]
   },
   "구민_adam": {
     "datas": [
