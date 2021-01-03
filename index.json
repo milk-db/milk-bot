@@ -76,7 +76,7 @@
         }
       }
     ],
-    "globalLockKeywords": ["업데이트", "주가", "궁합", "전국날씨", "미세먼지"],
+    "globalLockKeywords": ["업데이트", "주가", "궁합"],
     "blacklist": ["블랙리스트"]
   },
   "프론트개발자(Front-developer)": {
