@@ -64,6 +64,9 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지", "주가", "뉴스", "궁합"],
+    "useGlobalKeywords": {
+      "랭킹": ["Html5", "림림", "세디", "IU날강두"]
+    },
     "blacklist": ["서 녈"]
   },
   "웹 프론트엔드 정보공유": {
@@ -77,6 +80,9 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "주가", "궁합"],
+    "useGlobalKeywords": {
+      "랭킹": ["가브", "달료", "딩스", "Joon ᓚᘏᗢ"]
+    },
     "blacklist": ["블랙리스트"]
   },
   "프론트개발자(Front-developer)": {
@@ -107,6 +113,9 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "전국날씨", "미세먼지", "운세이용시간", "코로나", "발생동향", "보도자료", "뭐먹지", "주가", "로또", "검색", "뉴스"],
+    "useGlobalKeywords": {
+      "랭킹": ["MC", "라떼", "바보K", "서브웨이", "jrjung"]
+    },
     "blacklist": ["당근"]
   },
   "웹퍼블리셔 이야기": {
@@ -472,6 +481,9 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "주가"],
+    "useGlobalKeywords": {
+      "랭킹": ["admin"]
+    },
     "blacklist": ["블랙리스트"]
   },
   "구민_adam": {
