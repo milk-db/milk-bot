@@ -34,14 +34,14 @@
       "keyword": "랭킹",
       "week": [true, true, true, true, true, true, false],
       "hours": 23,
-      "minutes": 15,
+      "minutes": 30,
       "rooms": ["봇테스트오픈방2"]
     },
     {
       "keyword": "주간랭킹",
-      "week": [false, false, false, false, false, false, true],
-      "hour": 23,
-      "minutes": 15,
+      "week": [false, false, false, true, false, false, true],
+      "hours": 23,
+      "minutes": 31,
       "rooms": ["봇테스트오픈방2"]
     }
   ],
