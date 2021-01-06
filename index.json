@@ -71,7 +71,7 @@
     ],
     "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지", "주가", "뉴스", "궁합"],
     "useGlobalKeywords": {
-      "랭킹": ["Html5", "림림", "세디", "IU날강두", "po.to"]
+      "랭킹": ["방장봇", "팬다 Jr.", "Html5", "림림", "세디", "IU날강두", "po.to"]
     },
     "blacklist": ["서 녈"]
   },
@@ -87,7 +87,7 @@
     ],
     "globalLockKeywords": ["업데이트", "주가", "궁합"],
     "useGlobalKeywords": {
-      "랭킹": ["가브", "달료", "딩스", "Gear", "Joon", "Joon ᓚᘏᗢ"]
+      "랭킹": ["방장봇", "팬다 Jr.", "가브", "달료", "딩스", "Gear", "Joon", "Joon ᓚᘏᗢ"]
     },
     "blacklist": ["블랙리스트"]
   },
