@@ -487,6 +487,7 @@
       }
     ],
     "globalLockKeywords": ["업데이트", "주가"],
+    "available": ["방장봇", "팬다 Jr."],
     "useGlobalKeywords": {
       "랭킹": ["admin"]
     },
