@@ -29,6 +29,22 @@
       "endHour": 14
     }
   },
+  "autoMessages": [
+    {
+      "keyword": "랭킹",
+      "week": [true, true, true, true, true, true, false],
+      "hours": 23,
+      "minutes": 15,
+      "rooms": ["봇테스트오픈방2"]
+    },
+    {
+      "keyword": "주간랭킹",
+      "week": [false, false, false, false, false, false, true],
+      "hour": 23,
+      "minutes": 15,
+      "rooms": ["봇테스트오픈방2"]
+    }
+  ],
   "js": ["9ooooooooomin", "구민_adam", "joo", "dohoons", "po.to"],
   "admin": ["9ooooooooomin", "구민_adam", "joo", "dohoons"]
 }
