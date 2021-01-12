@@ -29,6 +29,17 @@
       "endHour": 14
     }
   },
+  "rankig": {
+     "rooms": [
+       "웹 퍼블리셔 공유 feat.친목도모",
+       "웹 프론트엔드 정보공유",
+       "프론트개발자(Front-developer)",
+       "웹퍼블리셔 이야기",
+       "하남패밀리",
+       "봇테스트오픈방",
+       "봇테스트오픈방2"
+     ]
+  },
   "js": ["9ooooooooomin", "구민_adam", "joo", "dohoons", "po.to"],
   "admin": ["9ooooooooomin", "구민_adam", "joo", "dohoons"]
 }
