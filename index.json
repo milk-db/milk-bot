@@ -66,7 +66,8 @@
     ],
     "globalLockKeywords": ["업데이트", "발생동향", "날씨", "미세먼지", "주가", "뉴스", "궁합"],
     "useGlobalKeywords": {
-      "랭킹": ["팬다 Jr.", "Html5", "림림", "세디", "IU날강두"]
+      "랭킹": ["팬다 Jr.", "Html5", "림림", "세디", "IU날강두"],
+      "주간랭킹": ["팬다 Jr.", "Html5", "림림", "세디", "IU날강두"]
     },
     "blacklist": [""]
   },
@@ -82,7 +83,8 @@
     ],
     "globalLockKeywords": ["업데이트", "주가", "궁합"],
     "useGlobalKeywords": {
-      "랭킹": ["방장봇", "팬다 Jr.", "가브", "달료", "딩스", "Gear", "Joon", "Joon ᓚᘏᗢ"]
+      "랭킹": ["방장봇", "팬다 Jr.", "가브", "달료", "딩스", "Gear", "Joon", "Joon ᓚᘏᗢ"],
+      "주간랭킹": ["방장봇", "팬다 Jr.", "가브", "달료", "딩스", "Gear", "Joon", "Joon ᓚᘏᗢ"]
     },
     "blacklist": ["블랙리스트"]
   },
@@ -115,7 +117,8 @@
     ],
     "globalLockKeywords": ["업데이트", "매물", "궁합", "운세", "날씨", "전국날씨", "미세먼지", "운세이용시간", "코로나", "발생동향", "보도자료", "뭐먹지", "주가", "로또", "검색", "뉴스"],
     "useGlobalKeywords": {
-      "랭킹": ["MC", "라떼", "바보K", "서브웨이", "jrjung", "potionstory"]
+      "랭킹": ["MC", "라떼", "바보K", "서브웨이", "jrjung", "potionstory"],
+      "주간랭킹": ["MC", "라떼", "바보K", "서브웨이", "jrjung", "potionstory"]
     },
     "blacklist": ["당근"]
   },
@@ -513,7 +516,8 @@
     "globalLockKeywords": ["업데이트", "주가"],
     "available": ["방장봇", "팬다 Jr."],
     "useGlobalKeywords": {
-      "랭킹": ["방장봇", "admin"]
+      "랭킹": ["방장봇", "admin"],
+      "주간랭킹": ["방장봇", "admin"]
     },
     "blacklist": ["블랙리스트"]
   },
