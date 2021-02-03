@@ -159,7 +159,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물", "주가"],
+    "globalLockKeywords": ["업데이트", "매물", "주가", "랭킹", "주간랭킹"],
     "blacklist": ["당근"]
   },
   "₩세종소유주인증 현관문": {
