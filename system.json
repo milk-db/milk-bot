@@ -13,20 +13,20 @@
       "endHour": 10
     },
     "목": {
-      "startHour": 0,
-      "endHour": 24
+      "startHour": 7,
+      "endHour": 10
     },
     "금": {
-      "startHour": 0,
-      "endHour": 24
+      "startHour": 7,
+      "endHour": 10
     },
     "토": {
-      "startHour": 0,
-      "endHour": 24
+      "startHour": 7,
+      "endHour": 14
     },
     "일": {
-      "startHour": 0,
-      "endHour": 24
+      "startHour": 7,
+      "endHour": 14
     }
   },
   "ranking": {
