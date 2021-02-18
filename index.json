@@ -71,6 +71,7 @@
       "미세먼지",
       "주가",
       "뉴스",
+      "랭킹",
       "궁합"
     ],
     "useGlobalKeywords": {
@@ -94,7 +95,7 @@
         }
       }
     ],
-    "globalLockKeywords": ["업데이트", "주가", "궁합"],
+    "globalLockKeywords": ["업데이트", "랭킹", "주가", "궁합"],
     "useGlobalKeywords": {
       "랭킹": [
         "방장봇",
@@ -159,6 +160,7 @@
     ],
     "globalLockKeywords": [
       "업데이트",
+      "랭킹",
       "매물",
       "궁합",
       "운세",
@@ -213,7 +215,7 @@
         "available": ["팬다 Jr."]
       }
     ],
-    "globalLockKeywords": ["업데이트", "매물", "주가", "랭킹", "주간랭킹"],
+    "globalLockKeywords": ["업데이트", "랭킹", "매물", "주가", "랭킹", "주간랭킹"],
     "blacklist": ["당근"]
   },
   "₩세종소유주인증 현관문": {
