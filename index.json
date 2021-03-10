@@ -34,17 +34,8 @@
         ]
       },
       {
-        "keyword": "?취업정보",
-        "output": [
-          "사람인: https://www.saramin.co.kr",
-          "잡코리아: https://www.jobkorea.co.kr",
-          "원티드: https://www.wanted.co.kr",
-          "링크드인: https://kr.linkedin.com",
-          "잡플래닛: https://www.jobplanet.co.kr",
-          "워크넷: https://www.work.go.kr",
-          "로켓펀치: https://www.rocketpunch.com",
-          "인디드: https://kr.indeed.com"
-        ]
+        "keyword": ".채용공고|?채용공고",
+        "output": ["https://www.notion.so/f7d373e0d73c4f88876f29e66b3768e1"]
       },
       {
         "keyword": "양식",
