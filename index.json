@@ -27,7 +27,7 @@
         "available": ["Html5"]
       },
       {
-        "keyword": ".채용공고|?채용공고",
+        "keyword": ".채용공고|?채용공고|!채용공고",
         "output": ["https://www.notion.so/f7d373e0d73c4f88876f29e66b3768e1"]
       },
       {
