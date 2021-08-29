@@ -32,7 +32,7 @@
       },
       {
         "keyword": ".게더타운|/게더타운",
-        "output": ["https://gather.town/mapmaker/3QTp0O5ruIUoUAVl/foobarbaz"]
+        "output": ["https://gather.town/app/3QTp0O5ruIUoUAVl/foobarbaz"]
       },
       {
         "keyword": "제로초님",
@@ -78,7 +78,8 @@
       "실거래가",
       "집주인",
       "호갱노노",
-      "로또"
+      "로또",
+      "공부"
     ],
     "blacklist": ["블랙리스트"]
   },
@@ -562,9 +563,7 @@
       "주가",
       "공부"
     ],
-    "blacklist": [
-      "ㅎㅎ"
-    ]
+    "blacklist": ["ㅎㅎ"]
   },
   "봇테스트오픈방2": {
     "datas": [
