@@ -96,6 +96,10 @@
         "kakaoLink": {
           "type": "like"
         }
+      },
+      {
+        "keyword": ".게더타운|/게더타운",
+        "output": ["https://gather.town/app/yZkna1WzglKOchAE/FrontEnd"]
       }
     ],
     "globalLockKeywords": [
