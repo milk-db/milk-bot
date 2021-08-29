@@ -32,7 +32,10 @@
       },
       {
         "keyword": ".게더타운|/게더타운",
-        "output": ["https://gather.town/app/3QTp0O5ruIUoUAVl/foobarbaz"]
+        "output": [
+          "https://gather.town/app/3QTp0O5ruIUoUAVl/foobarbaz",
+          "📵 PC 접속을 권장합니다."
+        ]
       },
       {
         "keyword": "제로초님",
@@ -99,7 +102,10 @@
       },
       {
         "keyword": ".게더타운|/게더타운",
-        "output": ["https://gather.town/app/yZkna1WzglKOchAE/FrontEnd"]
+        "output": [
+          "https://gather.town/app/yZkna1WzglKOchAE/FrontEnd",
+          "📵 PC 접속을 권장합니다."
+        ]
       }
     ],
     "globalLockKeywords": [
