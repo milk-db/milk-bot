@@ -29,6 +29,36 @@
       "endHour": 10
     }
   },
+  "공부": {
+    "월": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "화": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "수": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "목": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "금": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "토": {
+      "startHour": 9,
+      "endHour": 10
+    },
+    "일": {
+      "startHour": 9,
+      "endHour": 10
+    }
+  },
   "영단어": {
     "월": {
       "startHour": 18,
