@@ -344,6 +344,27 @@
     "JavaScript WebAssembly.Table() 생성자는 지정된 크기 및 요소 유형의 새 Table 객체를 만듭니다. 이것은 자바 스크립트 래퍼 객체로, 함수 참조를 저장하는 WebAssembly 테이블을 나타내는 배열과 같은 구조입니다. JavaScript 또는 WebAssembly 코드로 작성된 테이블은 JavaScript 및 WebAssembly에서 액세스 및 변경할 수 있습니다.",
     "JavaScript WebAssembly.CompileError() 생성자는 WebAssembly 디코딩 또는 유효성 검사 중에 발생한 오류를 나타내는 WebAssembly CompileError 객체를 새로 만듭니다.",
     "JavaScript WebAssembly.LinkError() 생성자는 새 WebAssembly LinkError 객체를 만듭니다. 이 객체는 모듈 인스턴스화 중의 오류를 나타냅니다.",
-    "JavaScript WebAssembly.RuntimeError() 생성자는 WebAssembly에서 trap을 지정할 때마다 throw 되는 새 WebAssembly RuntimeError 객체를 만듭니다."
+    "JavaScript WebAssembly.RuntimeError() 생성자는 WebAssembly에서 trap을 지정할 때마다 throw 되는 새 WebAssembly RuntimeError 객체를 만듭니다.",
+    "JavaScript block문(또는 다른 언어에서는 복합문)은 0개 이상의 구문을 묶을 때 사용합니다. 블록은 한 쌍의 중괄호로 구성하며 선택적으로 레이블을 붙일 수 있습니다.",
+    "JavaScript empty 문은 JavaScript 아무것도 동작하지 않습니다.",
+    "JavaScript break 문은 현재 반복문, switch 문, 또는 label 문을 종료하고, 그다음 문으로 프로그램 제어를 넘깁니다.",
+    "JavaScript continue 문은 현재 또는 레이블이 지정된 루프의 현재 반복에서 명령문의 실행을 종료하고 반복문의 처음으로 돌아가여 루프 문의 다음 코드를 실행합니다.",
+    "JavaScript if 문은 지정한 조건이 참인 경우 명령문(statement)을 실행합니다. 조건이 거짓인 경우 또 다른 명령문이 실행될 수 있습니다.",
+    "JavaScript throw 문은 사용자 정의 예외를 발생(throw)할 수 있습니다. 예외가 발생하면 현재 함수의 실행이 중지되고 (throw 이후의 명령문은 실행되지 않습니다.), 제어 흐름은 콜 스택의 첫 번째 catch 블록으로 전달됩니다. 호출자 함수 사이에 catch 블록이 없으면 프로그램이 종료됩니다.",
+    "JavaScript try... catch 문은 실행할 코드 블록을 표시하고 예외(exception)가 발생(throw)할 경우의 응답을 지정합니다.",
+    "JavaScript var 문은 변수를 선언하고, 선택적으로 초기화할 수 있습니다.",
+    "JavaScript let 구문은 블록 유효 범위를 갖는 지역 변수를 선언하며, 선언과 동시에 임의의 값으로 초기화할 수도 있다.",
+    "JavaScript const 선언은 블록 범위의 상수를 선언합니다. 상수의 값은 재할당할 수 없으며 다시 선언할 수도 없습니다.",
+    "JavaScript function declaration은 지정된 매개변수(parameter)를 갖는 함수를 정의합니다.",
+    "JavaScript function* 선언 (끝에 별표가 있는 function keyword) 은 generator function을 정의하는데, 이 함수는 Generator 객체를 반환합니다.",
+    "JavaScript async function 선언은 AsyncFunction객체를 반환하는 하나의 비동기 함수를 정의합니다. 비동기 함수는 이벤트 루프를 통해 비동기적으로 작동하는 함수로, 암시적으로 Promise를 사용하여 결과를 반환합니다. 그러나 비동기 함수를 사용하는 코드의 구문과 구조는, 표준 동기 함수를 사용하는 것과 많이 비슷합니다. 또한 async function expression을 사용해서 async function을 선언할 수 있습니다.",
+    "JavaScript return 명령문은 함수 실행을 종료하고, 주어진 값을 함수 호출 지점으로 반환합니다.",
+    "JavaScript class 선언은 프로토타입 기반 상속을 사용하여, 주어진 이름의 새로운 클래스를 만듭니다.",
+    "JavaScript do... while 문은 테스트 조건이 거짓으로 평가될 때까지 지정된 구문을 실행하는 루프를 만듭니다. 단, 구문이 실행된 뒤에 테스트 조건이 평가됨으로 구문은 무조건 한 번은 실행됩니다.",
+    "JavaScript for 문은 괄호로 감싸고 세미콜론으로 구분한 세 개의 선택식과, 반복을 수행할 문(주로 블록 문)으로 이루어져 있습니다.",
+    "JavaScript for...in문은 상속된 열거 가능한 속성들을 포함하여 객체에서 문자열로 키가 지정된 모든 열거 가능한 속성에 대해 반복합니다. (Symbol로 키가 지정된 속성은 무시합니다.)",
+    "JavaScript for... of 명령문은 반복 가능한 객체 (Array, Map, Set, String, TypedArray, arguments 객체 등을 포함)에 대해서 반복하고 각 개별 속성 값에 대해 실행되는 문이 있는 사용자 정의 반복 후크를 호출하는 루프를 생성합니다.",
+    "JavaScript for await... of 구문은 보통 비동기에 대응하는 열거자를 나열할 때 쓰이지만, String, Array, Array 같은 객체 (e.g., arguments or NodeList), TypedArray, Map, Set 같은 동기적으로 열거 가능한 객체 또한 가능하며, 사용자가 직접 정의한 동기 또는 비동기 객체도 나열할 수 있도록 해준다. 일반적인 for... of 문과 마찬가지로 열거자 심벌이 정의한 속성을 실행하게 되어 열거한 값을 변수로 받아 처리한다.",
+    "JavaScript while문은 조건문이 참일 때 실행되는 반복문이다. 조건은 문장 안이 실행되기 전에 참, 거짓을 판단한다."
   ]
 }
