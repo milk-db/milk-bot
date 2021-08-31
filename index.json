@@ -31,7 +31,7 @@
         "output": ["https://www.notion.so/f7d373e0d73c4f88876f29e66b3768e1"]
       },
       {
-        "keyword": ".게더타운|/게더타운",
+        "keyword": ".게더타운|?게더타운|!게더타운",
         "output": [
           "https://gather.town/app/3QTp0O5ruIUoUAVl/foobarbaz",
           "📵 PC 접속을 권장합니다."
@@ -82,6 +82,8 @@
       "집주인",
       "호갱노노",
       "로또",
+      "운세",
+      "운세이용시간",
       "공부"
     ],
     "blacklist": ["블랙리스트"]
