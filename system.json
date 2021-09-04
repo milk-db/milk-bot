@@ -22,11 +22,11 @@
     },
     "토": {
       "startHour": 7,
-      "endHour": 10
+      "endHour": 9
     },
     "일": {
       "startHour": 7,
-      "endHour": 10
+      "endHour": 9
     }
   },
   "공부": {
@@ -51,12 +51,12 @@
       "endHour": 10
     },
     "토": {
-      "startHour": 9,
-      "endHour": 10
+      "startHour": 12,
+      "endHour": 14
     },
     "일": {
-      "startHour": 9,
-      "endHour": 10
+      "startHour": 12,
+      "endHour": 14
     }
   },
   "영단어": {
@@ -82,11 +82,11 @@
     },
     "토": {
       "startHour": 18,
-      "endHour": 21
+      "endHour": 20
     },
     "일": {
       "startHour": 18,
-      "endHour": 21
+      "endHour": 20
     }
   },
   "ranking": {
