@@ -657,6 +657,10 @@
         "available": ["joo"]
       },
       {
+        "keyword": ".로드맵2022|/로드맵2022",
+        "output": "https://youtu.be/TTLHd3IyErM"
+      },
+      {
         "keyword": "테스트!",
         "output": "작동합니다!",
         "available": ["joo", "9ooooooooomin", "구민_adam"]
