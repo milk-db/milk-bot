@@ -105,6 +105,13 @@
         }
       },
       {
+        "keyword": "제로초님",
+        "output": [
+          "https://www.youtube.com/c/ZeroChoTV",
+          "구독 & 좋아요 & 알림설정"
+        ]
+      },
+      {
         "keyword": "📣 질문과 답변",
         "output": [
           "간단한 HTML/CSS/JS 질문은",
