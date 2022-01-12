@@ -112,6 +112,18 @@
         ]
       },
       {
+        "keyword": ".여자친구|/여자친구",
+        "output": "undefined|null|Uncaught ReferenceError: 여자친구 is not defined"
+      },
+      {
+        "keyword": ".남자친구|/남자친구",
+        "output": "undefined|null|Uncaught ReferenceError: 남자친구 is not defined"
+      },
+      {
+        "keyword": ".애인|/애인",
+        "output": "undefined|null|Uncaught ReferenceError: 애인 is not defined"
+      },
+      {
         "keyword": "📣 질문과 답변",
         "output": [
           "간단한 HTML/CSS/JS 질문은",
