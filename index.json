@@ -124,15 +124,6 @@
         "output": "undefined|null|Uncaught ReferenceError: 애인 is not defined"
       },
       {
-        "keyword": "질문과 답변",
-        "output": [
-          "간단한 HTML/CSS/JS 질문은",
-          "https://jsfiddle.net/ 사이트에",
-          "작성 후 주소 올려주세요."
-        ],
-        "available": ["팬다 Jr.", "방장봇"]
-      },
-      {
         "keyword": ".게더타운|/게더타운",
         "output": [
           "https://gather.town/app/yZkna1WzglKOchAE/FrontEnd",
