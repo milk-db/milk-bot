@@ -115,15 +115,15 @@
       },
       {
         "keyword": ".여자친구|/여자친구",
-        "output": "undefined|null|Uncaught ReferenceError: 여자친구 is not defined"
+        "output": "undefined|null|Uncaught ReferenceError: 여자친구 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마."
       },
       {
         "keyword": ".남자친구|/남자친구",
-        "output": "undefined|null|Uncaught ReferenceError: 남자친구 is not defined"
+        "output": "undefined|null|Uncaught ReferenceError: 남자친구 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마."
       },
       {
         "keyword": ".애인|/애인",
-        "output": "undefined|null|Uncaught ReferenceError: 애인 is not defined"
+        "output": "undefined|null|Uncaught ReferenceError: 애인 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마."
       },
       {
         "keyword": ".게더타운|/게더타운",
