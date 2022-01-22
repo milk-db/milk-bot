@@ -107,7 +107,7 @@
         }
       },
       {
-        "keyword": "제로초님",
+        "keyword": ".제로초|/제로초",
         "output": [
           "https://www.youtube.com/c/ZeroChoTV",
           "구독 & 좋아요 & 알림설정"
