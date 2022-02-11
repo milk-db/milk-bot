@@ -71,8 +71,11 @@
       {
         "keyword": ".제로초|/제로초",
         "output": [
+          "유튜브 - 구독 & 좋아요 & 알림설정",
           "https://www.youtube.com/c/ZeroChoTV",
-          "구독 & 좋아요 & 알림설정"
+          "",
+          "인프런 - 조현영(ZeroCho)",
+          "https://www.inflearn.com/courses?s=%EC%A1%B0%ED%98%84%EC%98%81&order=search"
         ]
       },
       {
