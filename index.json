@@ -100,6 +100,15 @@
           "https://gather.town/app/yZkna1WzglKOchAE/FrontEnd",
           "동일한 닉네임으로 접속해주세요!"
         ]
+      },
+      {
+        "keyword": ".공지|/공지",
+        "output": [
+          "❤️ 반갑습니다!",
+          "위에 방장봇 공지 읽고 간단한 소개와",
+          "중복되는 닉네임, 자동완성 닉네임",
+          "변경 부탁드려요! ^^"
+        ]
       }
     ],
     "globalLockKeywords": [
