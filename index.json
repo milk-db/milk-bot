@@ -85,6 +85,13 @@
         ]
       },
       {
+        "keyword": ".수일|/수일",
+        "output": [
+          "유튜브 - 구독 & 좋아요 & 알림설정",
+          "https://youtube.com/channel/UCPX3RG90GBGMpfWqZNshFSA"
+        ]
+      },
+      {
         "keyword": ".여자친구|/여자친구|.여친|/여친",
         "output": "undefined|null|Uncaught ReferenceError: 여자친구 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마.|썸녀만 있어요.|숨겨둔 여친이 있어요.|삼귀는 상태입니다.|친구의 여친과 사귀고있어요.|2D 여친이 있어요."
       },
