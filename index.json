@@ -555,8 +555,7 @@
         "keyword": "/가이드|.가이드|?가이드|/도움말|.도움말|?도움말",
         "isGuide": true,
         "output": [
-          "- 채용공고 (웹 퍼블리셔 공유방을 위한 채용공고)",
-          "- 로드맵 (웹 개발자가 되기 위한 로드맵)",
+          "- 로드맵2022 (웹 개발자가 되기 위한 로드맵)",
           "- 공부 (HTML, CSS, JavaScript 공부)",
           "- 검색 ${name} (구글 검색)",
           "- tag (검색 가능한 tag 목록)",
@@ -582,29 +581,25 @@
           "- 궁합 ${이름1} ${이름2} (이름숫자궁합)",
           "- 뭐먹지 (랜덤 음식 레시피)",
           "- 영단어 (영어단어공부)"
-        ],
-        "available": ["joo"]
+        ]
       },
       {
         "keyword": ".로드맵2022|/로드맵2022",
         "output": "https://youtu.be/TTLHd3IyErM"
       },
       {
-        "keyword": ".입문|/입문",
+        "keyword": ".입문",
         "output": [
           "Web과 함께 시작하기",
           "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web"
         ]
       },
       {
-        "keyword": ".자바스크립트|/자바스크립트",
-        "output": [
-          "모던 JavaScript 튜토리얼",
-          "https://ko.javascript.info"
-        ]
+        "keyword": ".자바스크립트",
+        "output": ["모던 JavaScript 튜토리얼", "https://ko.javascript.info"]
       },
       {
-        "keyword": ".타입스크립트|/타입스크립트",
+        "keyword": ".타입스크립트",
         "output": [
           "TypeScript-Handbook 한글 문서",
           "https://typescript-kr.github.io"
