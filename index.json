@@ -716,18 +716,24 @@
         "output": "https://youtu.be/TTLHd3IyErM"
       },
       {
-        "keyword": ".입문",
+        "keyword": ".입문|/입문",
         "output": [
           "Web과 함께 시작하기",
           "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web"
         ]
       },
       {
-        "keyword": ".자바스크립트",
+        "keyword": ".기본지식|/기본지식",
+        "output": [
+          "https://rentry.co/pr7bs"
+        ]
+      },
+      {
+        "keyword": ".자바스크립트|/자바스크립트",
         "output": ["모던 JavaScript 튜토리얼", "https://ko.javascript.info"]
       },
       {
-        "keyword": ".타입스크립트",
+        "keyword": ".타입스크립트|/타입스크립트",
         "output": [
           "TypeScript-Handbook 한글 문서",
           "https://typescript-kr.github.io"
