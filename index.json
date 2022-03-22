@@ -733,6 +733,10 @@
         "output": ["모던 JavaScript 튜토리얼", "https://ko.javascript.info"]
       },
       {
+        "keyword": ".광고|/광고",
+        "output": ["https://youtu.be/dR1LdP3UP44"]
+      },
+      {
         "keyword": ".타입스크립트|/타입스크립트",
         "output": [
           "TypeScript-Handbook 한글 문서",
