@@ -795,6 +795,12 @@
           "- Gear -"
         ]
       },
+       {
+        "keyword": ".홀라|/홀라|.hola|/hola",
+        "output": [
+          "holaworld.io"
+        ]
+      },
       {
         "keyword": ".자바스크립트|/자바스크립트",
         "output": ["모던 JavaScript 튜토리얼", "https://ko.javascript.info"]
