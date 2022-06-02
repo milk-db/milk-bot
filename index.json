@@ -795,9 +795,10 @@
           "- Gear -"
         ]
       },
-       {
+      {
         "keyword": ".홀라|/홀라|.hola|/hola",
         "output": [
+          "스터디 & 사이드 프로젝트",
           "holaworld.io"
         ]
       },
