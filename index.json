@@ -98,7 +98,7 @@
         "available": ["팬다 Jr.", "방장봇"]
       },
       {
-        "keyword": "/좋아요|.좋아요|?좋아요/하트|.하트|?하트",
+        "keyword": "/좋아요|.좋아요|?좋아요|/하트|.하트|?하트",
         "output": "",
         "kakaoLink": {
           "type": "like"
@@ -640,7 +640,7 @@
         }
       },
       {
-        "keyword": "/좋아요|.좋아요|?좋아요/하트|.하트|?하트",
+        "keyword": "/좋아요|.좋아요|?좋아요|/하트|.하트|?하트",
         "output": "",
         "available": ["9ooooooooomin"],
         "kakaoLink": {
