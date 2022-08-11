@@ -246,18 +246,6 @@
         ]
       },
       {
-        "keyword": ".여자친구|/여자친구|.여친|/여친",
-        "output": "undefined|null|Uncaught ReferenceError: 여자친구 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마.|썸녀만 있어요.|숨겨둔 여친이 있어요.|삼귀는 상태입니다.|친구의 여친과 사귀고있어요.|2D 여친이 있어요."
-      },
-      {
-        "keyword": ".남자친구|/남자친구|.남친|/남친",
-        "output": "undefined|null|Uncaught ReferenceError: 남자친구 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마.|썸남만 있어요.|숨겨둔 남친이 있어요.|삼귀는 상태입니다.|친구의 남친과 사귀고있어요.|2D 남친이 있어요."
-      },
-      {
-        "keyword": ".애인|/애인",
-        "output": "undefined|null|Uncaught ReferenceError: 애인 is not defined|아직 태어나지 않았어요.|응 없어.|없으니까 찾지마.|썸타고 있어요.|숨겨둔 애인이 있어요.|삼귀는 상태입니다.|친구의 애인과 사귀고있어요.|2D 애인이 있어요."
-      },
-      {
         "keyword": ".카모채용|/카모채용",
         "output": [
           "🚕 카카오모빌리티 FE 채용중",
@@ -276,7 +264,9 @@
         "keyword": ".게더타운|/게더타운",
         "output": [
           "👩‍💻🧑‍💻👨‍💻 [ 게더타운 ] 👩‍💻🧑‍💻👨‍💻",
-          "동일한 닉네임으로 접속해주세요!",
+          "",
+          "톡방과 동일한 닉네임으로 접속해주세요!",
+          "",
           "https://app.gather.town/app/nyicUpFIraBvhX4y/FrontEnd"
         ]
       },
