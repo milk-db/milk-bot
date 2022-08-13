@@ -59,36 +59,6 @@
       "endHour": 14
     }
   },
-  "영단어": {
-    "월": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "화": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "수": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "목": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "금": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "토": {
-      "startHour": 0,
-      "endHour": 24
-    },
-    "일": {
-      "startHour": 0,
-      "endHour": 24
-    }
-  },
   "ranking": {
     "rooms": [
       "웹 퍼블리셔 공유 feat.친목도모",
