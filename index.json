@@ -740,6 +740,10 @@
         ]
       },
       {
+        "keyword": ".복지|/복지",
+        "output": "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
+      },
+      {
         "keyword": "테스트!",
         "output": "작동합니다!",
         "available": ["joo", "9ooooooooomin", "구민_adam"]
