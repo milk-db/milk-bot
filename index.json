@@ -741,7 +741,10 @@
       },
       {
         "keyword": ".복지|/복지",
-        "output": "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
+        "output": [
+          "🏢 국내기업 복지 정보",
+          "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
+        ]
       },
       {
         "keyword": "테스트!",
