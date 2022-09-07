@@ -279,17 +279,10 @@
         ]
       },
       {
-        "keyword": ".중요공지",
+        "keyword": ".복지|/복지",
         "output": [
-          "❗️❗️❗️ [ 중 요 공 지 ]❗️❗️❗️",
-          "",
-          "잠수인원들 정리합니다.",
-          "",
-          "8/28(일) ~ 9/4(일)까지",
-          "현재 닉네임으로 채팅기록이 없으면",
-          "이후 강퇴될 수 있습니다.",
-          "",
-          "기간 안에 채팅 한 번이라도 쳐주세요."
+          "🏢 국내기업 복지 정보",
+          "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
         ]
       },
       {
@@ -323,6 +316,7 @@
       "보통통",
       "추천닉네임",
       "회사",
+      "복지",
       "실시간",
       "라이브"
     ],
@@ -761,13 +755,6 @@
           "- 6⃣~7⃣ 신고서 효력 발생 후 3~4주 소요 -",
           "",
           "출처 - https://www.shinhaninvest.com/siw/ib/ecm/ib_ecm_ipo_tab1_2/contents.do"
-        ]
-      },
-      {
-        "keyword": ".복지|/복지",
-        "output": [
-          "🏢 국내기업 복지 정보",
-          "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
         ]
       },
       {
