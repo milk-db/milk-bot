@@ -2,61 +2,31 @@
   "운세": {
     "월": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "화": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "수": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "목": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "금": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "토": {
       "startHour": 7,
-      "endHour": 9
+      "endHour": 8
     },
     "일": {
       "startHour": 7,
-      "endHour": 9
-    }
-  },
-  "공부": {
-    "월": {
-      "startHour": 9,
-      "endHour": 10
-    },
-    "화": {
-      "startHour": 9,
-      "endHour": 10
-    },
-    "수": {
-      "startHour": 9,
-      "endHour": 10
-    },
-    "목": {
-      "startHour": 9,
-      "endHour": 10
-    },
-    "금": {
-      "startHour": 9,
-      "endHour": 10
-    },
-    "토": {
-      "startHour": 12,
-      "endHour": 14
-    },
-    "일": {
-      "startHour": 12,
-      "endHour": 14
+      "endHour": 8
     }
   },
   "ranking": {
