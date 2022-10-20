@@ -25,7 +25,7 @@
         "available": ["방장봇"]
       },
       {
-        "keyword": "나쁜질문?",
+        "keyword": "질문방법?",
         "output": [
           "[ ZeroCho ] 나쁜 질문은 이렇습니다.",
           "",
