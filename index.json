@@ -712,7 +712,7 @@
         ]
       },
       {
-        "keyword": ".올라|/올라|.hola|/hola",
+        "keyword": ".올라|/올라|.hola",
         "output": [
           "스터디 & 사이드 프로젝트",
           "holaworld.io"
