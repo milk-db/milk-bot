@@ -97,7 +97,8 @@
       "코로나",
       "실시간",
       "라이브",
-      "추천닉네임"
+      "추천닉네임",
+      "영단어"
     ],
     "blacklist": ["블랙리스트"]
   },
@@ -120,13 +121,6 @@
         "kakaoLink": {
           "type": "like"
         }
-      },
-       {
-        "keyword": ".홍보|/홍보|.안내|/안내",
-        "output": [
-          "📺 오픈채팅방 안내 영상",
-          "https://youtu.be/DwQWFnfhxt0"
-        ]
       },
       {
         "keyword": "^.나쁜질문|^/나쁜질문",
@@ -278,21 +272,6 @@
         ]
       },
       {
-        "keyword": ".카모채용|/카모채용",
-        "output": [
-          "🚕 카카오모빌리티 FE 채용중",
-          "",
-          "- 웹 서비스 개발",
-          "https://possible-sulfur-842.notion.site/58e7abd85fe2437fbefb7602c317e142",
-          "",
-          "- 웹 서비스 개발 (시니어 개발자)",
-          "https://possible-sulfur-842.notion.site/c9018b968fba49169208efe0cace1a3f",
-          "",
-          "- GIS 데이터 관리 시스템 개발",
-          "https://possible-sulfur-842.notion.site/GIS-a45ee5a5c786453aa765e4547e3fba69"
-        ]
-      },
-      {
         "keyword": ".게더타운|/게더타운",
         "output": [
           "👩‍💻🧑‍💻👨‍💻 [ 게더타운 ] 👩‍💻🧑‍💻👨‍💻",
@@ -300,22 +279,6 @@
           "톡방과 동일한 닉네임으로 접속해주세요!",
           "",
           "https://app.gather.town/app/nyicUpFIraBvhX4y/FrontEnd"
-        ]
-      },
-      {
-        "keyword": ".복지|/복지",
-        "output": [
-          "🏢 국내기업 복지 정보",
-          "https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255"
-        ]
-      },
-      {
-        "keyword": ".공지|/공지",
-        "output": [
-          "❤️ 반갑습니다!",
-          "위에 방장봇 공지 읽고 간단한 소개와",
-          "자동완성 닉네임, 중복되는 닉네임",
-          "확인 후 변경 부탁드려요! ^^"
         ]
       }
     ],
@@ -343,7 +306,9 @@
       "복지",
       "실시간",
       "라이브",
-      "연봉"
+      "연봉",
+      "로또",
+      "공부시간"
     ],
     "blacklist": ["블랙리스트"]
   },
@@ -694,10 +659,6 @@
   },
   "common": {
     "datas": [
-      {
-        "keyword": ".로드맵2022|/로드맵2022",
-        "output": "https://youtu.be/TTLHd3IyErM"
-      },
       {
         "keyword": ".입문|/입문",
         "output": [
