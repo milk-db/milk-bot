@@ -269,6 +269,11 @@
                "type":"like"
             }
          }
+      ],
+      "globalLockKeywords":[
+         "운세",
+         "영단어",
+         "로또"
       ]
    },
    "common":{
