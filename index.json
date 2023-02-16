@@ -92,7 +92,7 @@
       },
       {
         "keyword": "^/퍼블초보",
-        "output": "https://www.instagram.com/"
+        "output": "https://www.instagram.com/daeun1228"
       },
       {
         "keyword": "^/muha",
@@ -102,6 +102,36 @@
         "keyword": "^/늘겨울|^/왕코",
         "output": "https://www.instagram.com/jisu__kim_1231"
       }
+    ],
+    "globalLockKeywords": [
+      "업데이트",
+      "채용공고",
+      "tag",
+      "css",
+      "js",
+      "달력",
+      "뉴스",
+      "전국날씨",
+      "날씨",
+      "미세먼지",
+      "운세이용시간",
+      "로또",
+      "궁합",
+      "뭐먹지",
+      "주가",
+      "공부",
+      "공부시간",
+      "춘식이",
+      "보통통",
+      "회사",
+      "회사상세",
+      "광고",
+      "코로나",
+      "실시간",
+      "라이브",
+      "추천닉네임",
+      "운세",
+      "영단어"
     ]
   },
   "웹 퍼블리셔 공유 feat.친목도모": {
