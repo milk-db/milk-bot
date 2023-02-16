@@ -19,87 +19,87 @@
         ]
       },
       {
-        "keyword": "/다람쥐",
+        "keyword": "^/다람쥐",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/Mia",
+        "keyword": "^/Mia",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/joo",
+        "keyword": "^/joo",
         "output": "https://www.instagram.com/jesus.frontend"
       },
       {
-        "keyword": "/백수캥거루",
+        "keyword": "^/백수캥거루",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/하툐하툐",
+        "keyword": "^/하툐하툐",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/세연",
+        "keyword": "^/세연",
         "output": "https://www.instagram.com/se.yxxn"
       },
       {
-        "keyword": "/예콩잉",
+        "keyword": "^/예콩잉",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/붱",
+        "keyword": "^/붱",
         "output": "https://www.instagram.com/94kywoo"
       },
       {
-        "keyword": "/덕철",
+        "keyword": "^/덕철",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/하늘",
+        "keyword": "^/하늘",
         "output": "https://www.instagram.com/ser_ipity_0227"
       },
       {
-        "keyword": "/가든",
+        "keyword": "^/가든",
         "output": "https://www.instagram.com/_garden_j"
       },
       {
-        "keyword": "/정식",
+        "keyword": "^/정식",
         "output": "https://www.instagram.com/jungsiking"
       },
       {
-        "keyword": "/비빔밥",
+        "keyword": "^/비빔밥",
         "output": "https://www.instagram.com/h.jieun1204"
       },
       {
-        "keyword": "/정지성",
+        "keyword": "^/정지성",
         "output": "https://www.instagram.com/_jeong_ji_seong"
       },
       {
-        "keyword": "/군밤",
+        "keyword": "^/군밤",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/늘봄",
+        "keyword": "^/늘봄",
         "output": "https://www.instagram.com/m_jii0210"
       },
       {
-        "keyword": "/통장",
+        "keyword": "^/통장",
         "output": "https://www.instagram.com/____hyohyo"
       },
       {
-        "keyword": "/군필새대갈",
+        "keyword": "^/군필새대갈",
         "output": "https://www.instagram.com/won1_x"
       },
       {
-        "keyword": "/퍼블초보",
+        "keyword": "^/퍼블초보",
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "/muha",
+        "keyword": "^/muha",
         "output": "https://www.instagram.com/ha_neul_0724"
       },
       {
-        "keyword": "/늘겨울|/왕코",
+        "keyword": "^/늘겨울|^/왕코",
         "output": "https://www.instagram.com/jisu__kim_1231"
       }
     ]
