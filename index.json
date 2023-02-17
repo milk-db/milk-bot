@@ -51,7 +51,7 @@
         "output": "https://www.instagram.com/"
       },
       {
-        "keyword": "^/붱",
+        "keyword": "^/붱|^/부엉",
         "output": "https://www.instagram.com/94kywoo"
       },
       {
@@ -75,7 +75,7 @@
         "output": "https://www.instagram.com/h.jieun1204"
       },
       {
-        "keyword": "^/정지성",
+        "keyword": "^/정지성|^/지성",
         "output": "https://www.instagram.com/_jeong_ji_seong"
       },
       {
@@ -91,11 +91,11 @@
         "output": "https://www.instagram.com/____hyohyo"
       },
       {
-        "keyword": "^/군필새대갈",
+        "keyword": "^/새대갈|^/여고생",
         "output": "https://www.instagram.com/won1_x"
       },
       {
-        "keyword": "^/퍼블초보",
+        "keyword": "^/퍼블초보|^/퍼초",
         "output": "https://www.instagram.com/daeun1228"
       },
       {
