@@ -8,7 +8,7 @@
           "다람쥐 89",
           "Mia 90",
           "주 91",
-          "캥거루 하툐 세연 예콩 93",
+          "캥거루 하툐 세연 달 예콩 93",
           "붱 94",
           "덕철 95",
           "하늘 가든 비빔밥 96",
@@ -45,6 +45,10 @@
       {
         "keyword": "^/푸디",
         "output": "https://www.instagram.com/fxx._.dy"
+      },
+      {
+        "keyword": "^/달이|^/호시조라",
+        "output": "https://www.instagram.com/"
       },
       {
         "keyword": "^/예콩잉",
