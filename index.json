@@ -10,20 +10,20 @@
           "다람쥐 89",
           "Mia 90",
           "주 91",
-          "캥거루 하툐 세연 달이 예콩 93",
+          "캥거루 세연 달이 예콩 93",
           "붱 94",
           "덕철 95",
           "하늘 가든 비빔밥 96",
-          "지성 군밤 늘봄 통장 97",
+          "지성 군밤 늘봄 97",
           "새대갈 퍼초 무하 왕코 98",
-          "-----------------넘사벽",
+          "---------------------넘사벽",
           "챗봇 23년 02월 15일 3시 40분"
         ]
       },
       {
         "keyword": "/생일",
         "output": [
-          "정지성 0105",
+          "지성 0105",
           "붱 0114",
           "캥거루 0119",
           "군밤 0127",
@@ -42,7 +42,7 @@
           "세연 0820",
           "주님 0928",
           "하누 1019",
-          "하누 1023",
+          "달이 1023",
           "예콩잉 1126",
           "비빔밥 1204",
           "늘겨울 1231"
@@ -53,24 +53,8 @@
         "output": "https://www.instagram.com/hanu_dot"
       },
       {
-        "keyword": "^/다람쥐",
-        "output": "https://www.instagram.com/"
-      },
-      {
-        "keyword": "^/Mia",
-        "output": "https://www.instagram.com/"
-      },
-      {
         "keyword": "^/joo",
         "output": "https://www.instagram.com/jesus.frontend"
-      },
-      {
-        "keyword": "^/백수캥거루",
-        "output": "https://www.instagram.com/"
-      },
-      {
-        "keyword": "^/하툐하툐",
-        "output": "https://www.instagram.com/"
       },
       {
         "keyword": "^/세연",
@@ -81,20 +65,8 @@
         "output": "https://www.instagram.com/fxx._.dy"
       },
       {
-        "keyword": "^/달이|^/호시조라",
-        "output": "https://www.instagram.com/"
-      },
-      {
-        "keyword": "^/예콩잉",
-        "output": "https://www.instagram.com/"
-      },
-      {
         "keyword": "^/붱|^/부엉",
         "output": "https://www.instagram.com/94kywoo"
-      },
-      {
-        "keyword": "^/덕철",
-        "output": "https://www.instagram.com/"
       },
       {
         "keyword": "^/하늘",
@@ -117,16 +89,8 @@
         "output": "https://www.instagram.com/_jeong_ji_seong"
       },
       {
-        "keyword": "^/군밤",
-        "output": "https://www.instagram.com/"
-      },
-      {
         "keyword": "^/늘봄",
         "output": "https://www.instagram.com/m_jii0210"
-      },
-      {
-        "keyword": "^/통장",
-        "output": "https://www.instagram.com/____hyohyo"
       },
       {
         "keyword": "^/새대갈|^/여고생",
