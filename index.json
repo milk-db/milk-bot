@@ -23,7 +23,6 @@
       {
         "keyword": "/족보",
         "output": [
-          "하누 84",
           "용역개발자 86",
           "9min 87",
           "다람쥐 89",
@@ -61,19 +60,38 @@
           "쭈구링 0806",
           "세연 0820",
           "주님 0928",
-          "하누 1019",
           "달이 1023",
           "비빔밥 1204",
           "늘겨울 1231"
         ]
       },
       {
-        "keyword": "^/하누",
-        "output": "https://www.instagram.com/hanu_dot"
+        "keyword": "^/인스타",
+        "output": [
+          "joo - https://www.instagram.com/jesus.frontend",
+          "캥거루 - https://www.instagram.com/h_sunkist",
+          "세연 - https://www.instagram.com/se.yxxn",
+          "푸디 - https://www.instagram.com/fxx._.dy",
+          "부엉 - https://www.instagram.com/94kywoo",
+          "하늘 - https://www.instagram.com/ser_ipity_0227",
+          "가든 - https://www.instagram.com/_garden_j",
+          "정식 - https://www.instagram.com/jungsiking",
+          "쭈구링 - https://www.instagram.com/chanwoo_iii",
+          "비빔밥 - https://www.instagram.com/h.jieun1204",
+          "지성 - https://www.instagram.com/_jeong_ji_seong",
+          "늘봄 - https://www.instagram.com/m_jii0210",
+          "새대갈 - https://www.instagram.com/won1_x",
+          "퍼블초보 - https://www.instagram.com/daeun1228",
+          "늘겨울 - https://www.instagram.com/jisu__kim_1231"
+        ]
       },
       {
         "keyword": "^/joo",
         "output": "https://www.instagram.com/jesus.frontend"
+      },
+      {
+        "keyword": "^/캥거루",
+        "output": "https://www.instagram.com/h_sunkist"
       },
       {
         "keyword": "^/세연",
@@ -116,7 +134,7 @@
         "output": "https://www.instagram.com/m_jii0210"
       },
       {
-        "keyword": "^/새대갈|^/여고생",
+        "keyword": "^/새대갈",
         "output": "https://www.instagram.com/won1_x"
       },
       {
