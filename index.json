@@ -5,15 +5,16 @@
         "keyword": "/좆보",
         "output": [
           "지성 0105",
-          "붱 0114",
-          "캥거루 0119",
+          "영우 0114",
+          "선기 0119",
           "늘봄 0210",
-          "새대갈 0216",
+          "브왁 0216",
           "가든 0221",
           "하늘 0227",
           "퍼초 0609",
+          "부디 0708",
           "세연 0820",
-          "주 0928"
+          "joo 0928"
         ]
       }
     ]
@@ -26,7 +27,7 @@
           "용역개발자 86",
           "다람쥐 89",
           "Mia 90",
-          "주 91",
+          "joo 91",
           "캥거루 부디 세연 피죤투 93",
           "붱 94",
           "덕철 95",
@@ -41,11 +42,11 @@
         "keyword": "/생일",
         "output": [
           "지성 0105",
-          "붱 0114",
-          "캥거루 0119",
+          "영우 0114",
+          "선키 0119",
           "군밤 0127",
           "늘봄 0210",
-          "새대갈 0216",
+          "브왁 0216",
           "Mia 0220",
           "가든 0221",
           "하늘 0227",
@@ -56,7 +57,7 @@
           "다람쥐 0720",
           "쭈구링 0806",
           "세연 0820",
-          "주님 0928",
+          "joo 0928",
           "피죤투 1126",
           "비빔밥 1204",
           "늘겨울 1231"
@@ -90,12 +91,13 @@
       {
         "keyword": "^/인스타",
         "output": [
+          "Mia - https://www.instagram.com/choi.esther",
           "joo - https://www.instagram.com/jesus.frontend",
-          "캥거루 - https://www.instagram.com/h_sunkist",
+          "선키스트 - https://www.instagram.com/h_sunkist",
           "세연 - https://www.instagram.com/se.yxxn",
           "푸디 - https://www.instagram.com/fxx._.dy",
           "피죤투 - https://www.instagram.com/pigeon__pic",
-          "부엉 - https://www.instagram.com/94kywoo",
+          "영우 - https://www.instagram.com/94kywoo",
           "하늘 - https://www.instagram.com/ser_ipity_0227",
           "가든 - https://www.instagram.com/_garden_j",
           "정식 - https://www.instagram.com/jungsiking",
@@ -107,6 +109,10 @@
           "퍼블초보 - https://www.instagram.com/daeun1228",
           "늘겨울 - https://www.instagram.com/jisu__kim_1231"
         ]
+      },
+      {
+        "keyword": "^/Mia",
+        "output": "https://www.instagram.com/choi.esther"
       },
       {
         "keyword": "^/joo",
@@ -129,7 +135,7 @@
         "output": "https://www.instagram.com/pigeon__pic"
       },
       {
-        "keyword": "^/붱|^/부엉",
+        "keyword": "^/붱|^/부엉|^영우",
         "output": "https://www.instagram.com/94kywoo"
       },
       {
@@ -161,7 +167,7 @@
         "output": "https://www.instagram.com/m_jii0210"
       },
       {
-        "keyword": "^/새대갈",
+        "keyword": "^/새대갈|^",
         "output": "https://www.instagram.com/won1_x"
       },
       {
