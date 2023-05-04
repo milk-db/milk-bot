@@ -8,11 +8,12 @@
           "영우 0114",
           "선기 0119",
           "늘봄 0210",
-          "브왁 0216",
+          "종원 0216",
           "가든 0221",
           "하늘 0227",
           "퍼초 0609",
           "부디 0708",
+          "찬우 0806",
           "세연 0820",
           "joo 0928"
         ]
@@ -24,16 +25,15 @@
       {
         "keyword": "/족보",
         "output": [
-          "용역개발자 86",
+          "Json상하차맨 86",
           "다람쥐 89",
           "Mia 90",
           "joo 91",
-          "캥거루 부디 세연 피죤투 93",
-          "붱 94",
-          "덕철 95",
+          "Sunkist 부디2 세연 피죤투 93",
+          "김영우 94",
           "하늘 가든 쭈구링 비빔밥 96",
-          "지성 군밤 늘봄 97",
-          "새대갈 퍼초 왕코 98",
+          "정지성 🌰군밤 늘봄 97",
+          "새대갈🕊️ 퍼1블초@보 늘겨울(왕코) 98",
           "---------------------넘사벽",
           "챗봇 23년 02월 15일 3시 40분"
         ]
@@ -41,26 +41,25 @@
       {
         "keyword": "/생일",
         "output": [
-          "지성 0105",
-          "영우 0114",
-          "선키 0119",
-          "군밤 0127",
+          "정지성 0105",
+          "김영우 0114",
+          "Sunkist 0119",
+          "🌰군밤 0127",
           "늘봄 0210",
-          "브왁 0216",
+          "새대갈🕊️ 0216",
           "Mia 0220",
           "가든 0221",
           "하늘 0227",
-          "덕철 0403",
-          "용개 0421",
-          "퍼초 0609",
-          "부디 0708",
+          "Json상하차맨 0421",
+          "퍼1블초@보 0609",
+          "부디2 0708",
           "다람쥐 0720",
           "쭈구링 0806",
           "세연 0820",
           "joo 0928",
           "피죤투 1126",
           "비빔밥 1204",
-          "늘겨울 1231"
+          "늘겨울(왕코) 1231"
         ]
       },
       {
@@ -71,11 +70,10 @@
           "Mia - INFP",
           "joo - ISFJ",
           "Sunkist - ENFP(본인피셜 INFP)",
-          "부디 - ESTJ",
+          "부디2 - ESTJ",
           "세연 - ESTJ",
           "피죤투 - INTJ",
           "김영우 - ENFP",
-          "덕철 - ISTJ",
           "하늘 - ISFJ",
           "가든 - ESFP & ENFP",
           "쭈구링 - ISFJ",
@@ -83,7 +81,7 @@
           "지성 - INFP",
           "🌰군밤 - INFP",
           "늘봄 - ENTJ",
-          "브왁새대갈🕊️ - ISTJ",
+          "새대갈🕊️ - ISTJ",
           "퍼1블초@보 - ENFP",
           "늘겨울(왕코) - ENTP"
         ]
@@ -93,90 +91,22 @@
         "output": [
           "Mia - https://www.instagram.com/choi.esther",
           "joo - https://www.instagram.com/jesus.frontend",
-          "선키스트 - https://www.instagram.com/h_sunkist",
+          "Sunkist - https://www.instagram.com/h_sunkist",
           "세연 - https://www.instagram.com/se.yxxn",
           "푸디 - https://www.instagram.com/fxx._.dy",
           "피죤투 - https://www.instagram.com/pigeon__pic",
-          "영우 - https://www.instagram.com/94kywoo",
+          "김영우 - https://www.instagram.com/94kywoo",
           "하늘 - https://www.instagram.com/ser_ipity_0227",
           "가든 - https://www.instagram.com/_garden_j",
           "정식 - https://www.instagram.com/jungsiking",
           "쭈구링 - https://www.instagram.com/chanwoo_iii",
           "비빔밥 - https://www.instagram.com/h.jieun1204",
-          "지성 - https://www.instagram.com/_jeong_ji_seong",
+          "정지성 - https://www.instagram.com/_jeong_ji_seong",
           "늘봄 - https://www.instagram.com/m_jii0210",
-          "새대갈 - https://www.instagram.com/won1_x",
-          "퍼블초보 - https://www.instagram.com/daeun1228",
-          "늘겨울 - https://www.instagram.com/jisu__kim_1231"
+          "새대갈🕊️ - https://www.instagram.com/won1_x",
+          "퍼1블초@보 - https://www.instagram.com/daeun1228",
+          "늘겨울(왕코) - https://www.instagram.com/jisu__kim_1231"
         ]
-      },
-      {
-        "keyword": "^/Mia",
-        "output": "https://www.instagram.com/choi.esther"
-      },
-      {
-        "keyword": "^/joo",
-        "output": "https://www.instagram.com/jesus.frontend"
-      },
-      {
-        "keyword": "^/캥거루",
-        "output": "https://www.instagram.com/h_sunkist"
-      },
-      {
-        "keyword": "^/세연",
-        "output": "https://www.instagram.com/se.yxxn"
-      },
-      {
-        "keyword": "^/푸디",
-        "output": "https://www.instagram.com/fxx._.dy"
-      },
-      {
-        "keyword": "^/피죤투",
-        "output": "https://www.instagram.com/pigeon__pic"
-      },
-      {
-        "keyword": "^/붱|^/부엉|^영우",
-        "output": "https://www.instagram.com/94kywoo"
-      },
-      {
-        "keyword": "^/하늘",
-        "output": "https://www.instagram.com/ser_ipity_0227"
-      },
-      {
-        "keyword": "^/가든",
-        "output": "https://www.instagram.com/_garden_j"
-      },
-      {
-        "keyword": "^/정식",
-        "output": "https://www.instagram.com/jungsiking"
-      },
-      {
-        "keyword": "^/쭈구링",
-        "output": "https://instagram.com/chanwoo_iii"
-      },
-      {
-        "keyword": "^/비빔밥",
-        "output": "https://www.instagram.com/h.jieun1204"
-      },
-      {
-        "keyword": "^/정지성|^/지성",
-        "output": "https://www.instagram.com/_jeong_ji_seong"
-      },
-      {
-        "keyword": "^/늘봄",
-        "output": "https://www.instagram.com/m_jii0210"
-      },
-      {
-        "keyword": "^/새대갈|^",
-        "output": "https://www.instagram.com/won1_x"
-      },
-      {
-        "keyword": "^/퍼블초보|^/퍼초",
-        "output": "https://www.instagram.com/daeun1228"
-      },
-      {
-        "keyword": "^/늘겨울|^/왕코",
-        "output": "https://www.instagram.com/jisu__kim_1231"
       }
     ],
     "globalLockKeywords": [
