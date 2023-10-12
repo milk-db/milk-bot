@@ -56,6 +56,10 @@
         "output": "귀여워요?"
       },
       {
+        "keyword": "/떤기어",
+        "output": "https://www.geuldongmu.org"
+      },
+      {
         "keyword": "/하늘",
         "output": "🩵농협은행🩵기업은행🩵"
       },
